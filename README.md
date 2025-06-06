@@ -38,7 +38,7 @@ PyroSight is a smart monitoring platform that leverages drones, satellite imager
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/EXAMPLE/Pyro-Sight.git
+git clone https://github.com/lucas-reis-diniz/Pyro-Sight.git
 cd Flame-Guard
 ```
 
